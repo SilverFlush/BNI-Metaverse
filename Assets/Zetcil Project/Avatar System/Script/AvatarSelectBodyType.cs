@@ -22,16 +22,4 @@ public class AvatarSelectBodyType : MonoBehaviour
         Feminine = true;
         PlayerPrefs.SetString("STEP1", "FEMININE");
     }
-
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 }
